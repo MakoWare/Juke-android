@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Juke</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_song">Add Song</string>
+    <string name="action_start_hub">Start</string>
+    <string name="action_search">Search</string>
+    <string name="search_youtube">Search YouTube</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="homeView_title">Hubs</string>
+    <string name="title_activity_hub_view">HubView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_song_chooser_view">SongChooserView</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
